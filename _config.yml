@@ -1,7 +1,7 @@
 # Site settings
-title: 'Nice Shot'  # Your Title
+title: '郑大侠'  # Your Title
 tagline: 'To find something interesting'  # A brief tagline for your site
-timezone: 'Asia/Shanghai'
+timezone: 'Asia/Guangzhou'
 destination: ./_site
 
 # Build settings

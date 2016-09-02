@@ -1,7 +1,7 @@
 {
-  "name": "zchen9.github.io",
+  "name": "dempeZheng.github.io",
   "version": "1.0.0",
-  "description": "Hey, friends ~ Here is my blog ☞  [[ Nice Shot ! ]](http://www.chen9.info/)",
+  "description": "Hey, friends ~ Here is my blog ☞  [[ DempeZheng ! ]](http://www.zhizus.com/)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,16 +11,16 @@
     "url": "git+https://github.com/zchen9/zchen9.github.io.git"
   },
   "keywords": [
-    "zchen9",
+    "dempeZheng",
     "blog",
     "code"
   ],
-  "author": "zchen9 (zhao.zchen9@gmail.com)",
+  "author": "dempeZheng (yinweiniyu@163..com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zchen9/zchen9.github.io/issues"
+    "url": "https://github.com/dempeZheng/zchen9.github.io/issues"
   },
-  "homepage": "https://github.com/zchen9/zchen9.github.io#readme",
+  "homepage": "https://github.com/dempeZheng/zchen9.github.io#readme",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.1.0",
