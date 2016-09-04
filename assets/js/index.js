@@ -8,6 +8,6 @@ $(document).ready(function(){
   
   $avatar.on('click', switchScreen);
 
-  console.log('© zchen9 🙋 2015-' + (new Date()).getFullYear());
+  console.log('© DempeZheng 🙋 2016-' + (new Date()).getFullYear());
   
 });
