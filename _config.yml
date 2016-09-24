@@ -13,6 +13,7 @@ markdown: kramdown
 #highlighter: true
 baseurl: # the subpath of your site, e.g. /blog/
 codeurl: /code/
+blogurl: /blog/
 fragmenturl: /life/
 
 # Personal info
