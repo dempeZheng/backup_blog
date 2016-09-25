@@ -12,9 +12,9 @@ markdown: kramdown
 #for local
 #highlighter: true
 baseurl: # the subpath of your site, e.g. /blog/
-codeurl: code.zhizus.com
-blogurl: /blog/
-fragmenturl: life.zhizus.com
+codeurl: http://code.zhizus.com
+blogurl: http://code.zhizus.com
+fragmenturl: http://life.zhizus.com
 
 # Personal info
 avatar: https://avatars2.githubusercontent.com/u/6263631?v=3&s=460
